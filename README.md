@@ -1,5 +1,5 @@
 # KMUTT-CPE111-2017-2
-Nathaphop's work from KMUTT CPE 111 class.
+My work from Data structure class (CPE111) in KMUTT.
 
 Note that Description file in each folder is the the latest update. It could cause code doesn't work as the description file.
 Because it is a description file that I can derived from [windu.cpe.kmutt.ac.th](windu.cpe.kmutt.ac.th)
