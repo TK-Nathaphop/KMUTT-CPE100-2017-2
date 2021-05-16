@@ -1,0 +1,50 @@
+STATUS tk@gmail.com Hello World
+DATE 10 1 2017 14 26
+COMMENT bright@hotmail.com  Hello World!
+DATE 12 1 2017 15 25
+STATUS tk@gmail.com Get A CPE111
+DATE 20 2 2018 23 00
+STATUS brunomars11@hotmail.com Yeaha!
+DATE 15 3 2018 20 00
+COMMENT Rico_099@hotmail.com Yeah!!
+DATE 15 3 2018 23 00
+COMMENT Elli0011@hotmail.com OMG!!
+DATE 16 3 2018 08 00
+STATUS Adda_90@hotmail.com HappyBirth day to me
+DATE 17 3 2018 00 00
+COMMENT Brenda_990@gmail.com HappyBirth Adda!
+DATE 17 3 2018 08 00
+COMMENT Tommy099@hotmail.com HappyBirth Adda, enjoy your wonderful year!
+DATE 17 3 2018 13 00
+COMMENT Brooke009@gmail.com Whoo!!
+DATE 17 3 2018 18 00
+STATUS Ashly088@hotmail.com Hello people!
+DATE 18 3 2018 08 50
+COMMENT brunomars11@hotmail.com sup!
+DATE 18 3 2018 09 00
+STATUS Brenda_990@gmail.com Did somebody want a pizza??
+DATE 19 3 2018 10 00
+COMMENT Rondox_099@hotmail.com Please Brenda, you should have more exercise.
+DATE 19 3 2018 11 00
+COMMENT Adda_90@hotmail.com Me!!!!
+DATE 19 3 2018 12 00
+COMMENT Brenda_990@gmail.com You so mean! Rondo.
+DATE 19 3 2018 12 30
+STATUS ShawnEd_10@hotmail.com
+DATE 19 3 2018 12 31
+STATUS Emilia11@hotmail.com Good Night, people~
+DATE 19 3 2018 20 00
+COMMENT Jefferson@hotmail.com Good Night, Emilia.
+DATE 19 3 2018 20 05
+COMMENT Rico_099@hotmail.com Sooo Tired!
+DATE 19 3 2018 20 30
+COMMENT ShawnEd_10@hotmail.com Don't forget your homework!
+DATE 19 3 2018 20 45
+COMMENT Emilia11@hotmail.com Okay Shawn.
+DATE 19 3 2018 21 00
+STATUS Donovan@hotmail.com Good Morning Teacher~
+DATE 20 3 2018 08 50
+COMMENT Dwight01@gmail.com How are you today?
+DATE 20 3 2018 09 00
+COMMENT Rico_099@hotmail.com I'm fine I'm Okay.
+DATE 20 3 2018 10 00

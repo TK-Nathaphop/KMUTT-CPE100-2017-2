@@ -1,0 +1,26 @@
+Saab - What is Simple Facebook
+
+Features
+-Register into Simple Facebook
+-Sign in/Sign out
+-Suggest friend
+-Show the lastest status
+-See next status
+-Find friend
+-Send pending request
+-Accept/Deny friend pending reqeust
+-Unfriend
+-Update Status
+-Comment stautus
+
+Data Structure
+-AVL Binary tree!!!!!!!!
+-Hash table!!!!!!!!!!
+-Graph!!!!!!!!
+-Linked list
+
+Interested Algorithm Search/Sort
+-Quick Sort for the Lastest Status
+-Search friend of friend
+-If can't found or don't have friend of friend, Use random search!!!!!
+-Binary Tree Search

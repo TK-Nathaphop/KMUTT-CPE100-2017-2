@@ -1,0 +1,75 @@
+STATUS Hello World
+MAIL rico_099@hotmail.com
+DATE 10 1 2017 14 26
+COMMENT Hello World!
+MAIL rico_099@hotmail.com
+DATE 12 1 2017 15 25
+STATUS Get A CPE111
+MAIL rico_099@hotmail.com
+DATE 20 2 2018 23 0
+STATUS Yeaha!
+MAIL rico_099@hotmail.com
+DATE 15 3 2018 20 0
+COMMENT Yeah!!
+MAIL rico_099@hotmail.com
+DATE 15 3 2018 23 0
+COMMENT OMG!!
+MAIL rico_099@hotmail.com
+DATE 16 3 2018 8 0
+STATUS HappyBirth day to me
+MAIL rico_099@hotmail.com
+DATE 17 3 2018 0 0
+COMMENT HappyBirth Adda!
+MAIL rico_099@hotmail.com
+DATE 17 3 2018 8 0
+COMMENT HappyBirth Adda, enjoy your wonderful year!
+MAIL rico_099@hotmail.com
+DATE 17 3 2018 13 0
+COMMENT Whoo!!
+MAIL rico_099@hotmail.com
+DATE 17 3 2018 18 0
+STATUS Hello people!
+MAIL rico_099@hotmail.com
+DATE 18 3 2018 8 50
+COMMENT sup!
+MAIL rico_099@hotmail.com
+DATE 18 3 2018 9 0
+STATUS Did somebody want a pizza??
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 10 0
+COMMENT Please Brenda, you should have more exercise.
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 11 0
+COMMENT Me!!!!
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 12 0
+COMMENT You so mean! Rondo.
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 12 30
+STATUS Hi!
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 12 31
+STATUS Good Night, people~
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 20 0
+COMMENT Good Night, Emilia.
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 20 5
+COMMENT Sooo Tired!
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 20 30
+COMMENT Don't forget your homework!
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 20 45
+COMMENT Okay Shawn.
+MAIL rico_099@hotmail.com
+DATE 19 3 2018 21 0
+STATUS Good Morning Teacher~
+MAIL rico_099@hotmail.com
+DATE 20 3 2018 8 50
+COMMENT How are you today?
+MAIL rico_099@hotmail.com
+DATE 20 3 2018 9 0
+COMMENT I'm fine I'm Okay.
+MAIL rico_099@hotmail.com
+DATE 20 3 2018 10 0

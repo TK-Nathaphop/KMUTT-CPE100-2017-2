@@ -1,0 +1,18 @@
+STATUS Hello world
+MAIL bammo@cpe.kmutt.ac.th
+DATE 24 5 2018 10 54
+COMMENT I'm beautiful
+MAIL bammo@cpe.kmutt.ac.th
+DATE 24 5 2018 10 57
+COMMENT Really?
+MAIL saab007@gmail.com
+DATE 24 5 2018 11 1
+STATUS Hi everyone!
+MAIL tk@hotmail.com
+DATE 24 5 2018 11 22
+STATUS yayayay
+MAIL primmysudcute@hotmail.com
+DATE 24 5 2018 11 6
+COMMENT What that mean?
+MAIL saab007@gmail.com
+DATE 24 5 2018 11 10
