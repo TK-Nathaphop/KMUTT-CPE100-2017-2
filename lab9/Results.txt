@@ -1,0 +1,17 @@
+#Nathaphop Sundarabhogin
+#ID 60070503420
+#30 MAR 2018
+
+a) Find the shortest path from L to Q
+L ==> O ==> Q
+weight: 13
+
+b) Find the shortest path from J to R
+J ==> M ==> N ==> P ==> S ==> Q ==> R
+weight: 25
+
+c) Find the shortest path from S to J
+Network is not directed
+
+d) Find the shortest path from T to N
+Network is not directed
